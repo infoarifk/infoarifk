@@ -1,6 +1,6 @@
 ### Hello,I'm Arif Khan
 <hr>
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=helloarifk&show_icons=true&theme=algolia"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=infoarifk&show_icons=true&theme=algolia"/>
 
 -  I’m studing in <a href="www.uits.edu.bd">University of Information Technology & Sciences</a>
 -  My Department is **Computer Science & Engineering**
